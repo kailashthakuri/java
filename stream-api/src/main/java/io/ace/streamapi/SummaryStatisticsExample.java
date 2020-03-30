@@ -8,7 +8,7 @@ public class SummaryStatisticsExample {
         /**
          * Summary Statistics only works on IntStream.
          */
-    
+
         IntSummaryStatistics intSummaryStatistics = IntStream.of(1, 2, 3, 4)
                 .summaryStatistics();
         System.out.println(intSummaryStatistics);

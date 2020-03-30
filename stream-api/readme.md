@@ -34,3 +34,4 @@
   To remove the file  from the repo and not delete it from the local file system.
 - git rm dummy.txt
   To remove file from the local repo as well as from local file system.  
+
