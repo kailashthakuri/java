@@ -1,4 +1,4 @@
-package packA;
+package io.ice.test.beyond;
 
 import jdk.incubator.http.HttpClient;
 import jdk.incubator.http.HttpRequest;
@@ -6,7 +6,7 @@ import jdk.incubator.http.HttpResponse;
 
 import java.net.URI;
 
-class Test {
+public class Test {
     public static void main(String[] args) {
         HttpClient client = HttpClient.newHttpClient();
         try {

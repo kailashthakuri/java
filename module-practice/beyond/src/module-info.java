@@ -1,3 +1,3 @@
-module httpModule {
+module beyond {
     requires jdk.incubator.httpclient;
 }

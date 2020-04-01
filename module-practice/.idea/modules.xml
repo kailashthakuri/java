@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/beyond/beyond.iml" filepath="$PROJECT_DIR$/beyond/beyond.iml" />
       <module fileurl="file://$PROJECT_DIR$/modulepractice.iml" filepath="$PROJECT_DIR$/modulepractice.iml" />
     </modules>
   </component>
